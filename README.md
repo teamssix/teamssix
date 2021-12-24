@@ -9,6 +9,4 @@
 
 ### Personal WeChat Public Account: TeamsSix
 
-> 点击我的微信公众号 TeamsSix 菜单栏中的「交个朋友」可添加我的个人微信 ~
-
 [![](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png)](https://github.com/teamssix)

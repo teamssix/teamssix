@@ -12,7 +12,7 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 ### TeamsSix's Stars ✨
 
-![My Stars](https://github-readme-stats.vercel.app/api?username=teamssix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![My Stars](https://github-readme-stats.vercel.app/api?username=teamssix&show_icons=true&locale=cn&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ### TeamsSix's Hot Repo 📫
 

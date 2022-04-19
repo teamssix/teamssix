@@ -25,5 +25,4 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 
 ### Personal WeChat Public Account: TeamsSix
-
-[![](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png)](https://github.com/teamssix)
+[![](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png)](https://github.com/teamssix)

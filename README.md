@@ -23,6 +23,6 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=CreateHiddenAccount&theme=tokyonight)](https://github.com/wgpsec/CreateHiddenAccount)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=tig&theme=tokyonight)](https://github.com/wgpsec/tig)
 
-
+![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)
 ### Personal WeChat Public Account: TeamsSix
 [![](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png)](https://github.com/teamssix)

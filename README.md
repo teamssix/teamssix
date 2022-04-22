@@ -2,9 +2,10 @@
 
 Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
-* Red Team
-* My Blog: [teamssix.com](https://teamssix.com/)
-* My Wiki：[T Wiki](https://wiki.teamssix.com/)
+* Red Team `没参加 xxx 行动，别溯源了`
+* Research direction: Cloud security :cloud:
+* My Blog : [teamssix.com](https://teamssix.com/)
+* My Wiki :book: : [T Wiki](https://wiki.teamssix.com/)
 * My Twitter: [@Teamssix](https://twitter.com/TeamsSix)
 * My WeChat Official Accounts: [TeamsSix](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png)
 

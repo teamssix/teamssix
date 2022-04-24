@@ -2,7 +2,7 @@
 
 Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
-* Red Team `没参加 xxx 行动，别溯源了`
+* Red Team
 * Research direction: Cloud security :cloud:
 * My Blog : [teamssix.com](https://teamssix.com/)
 * My Wiki :book: : [T Wiki](https://wiki.teamssix.com/)

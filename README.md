@@ -26,4 +26,5 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 ![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)
 ### Personal WeChat Public Account: TeamsSix
-[![](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png)](https://github.com/teamssix)
+
+<img width="500" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png">

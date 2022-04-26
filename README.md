@@ -3,7 +3,7 @@
 Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 * Red Team
-* Research direction: Cloud security :cloud:
+* Research Direction: Cloud Security :cloud:
 * My Blog : [teamssix.com](https://teamssix.com/)
 * My Wiki :book: : [T Wiki](https://wiki.teamssix.com/)
 * My Twitter: [@Teamssix](https://twitter.com/TeamsSix)

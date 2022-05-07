@@ -13,7 +13,7 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 ### TeamsSix's Stars ✨
 
-![My Stars](https://github-readme-stats.vercel.app/api?username=teamssix&show_icons=true&locale=cn&include_all_commits=true&count_private=true&theme=tokyonight)
+[![My Stars](https://github-readme-stats.vercel.app/api?username=teamssix&show_icons=true&locale=cn&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/teamssix)
 
 ### TeamsSix's Hot Repo 📫
 
@@ -22,7 +22,8 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=CreateHiddenAccount&theme=tokyonight)](https://github.com/wgpsec/CreateHiddenAccount)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=tig&theme=tokyonight)](https://github.com/wgpsec/tig)
 
-![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)
+[![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
+
 ### Personal WeChat Public Account: TeamsSix
 
 <img width="500" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png">

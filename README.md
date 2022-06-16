@@ -6,7 +6,7 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 * Research Direction: Cloud Security :cloud:
 * My Blog : [teamssix.com](https://teamssix.com/)
 * My Wiki :book: : [T Wiki](https://wiki.teamssix.com/)
-* My Twitter: [@Teamssix](https://twitter.com/TeamsSix)
+* My Twitter: [@TeamsSix](https://twitter.com/TeamsSix)
 * My WeChat Official Accounts: [TeamsSix](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png)
 
 

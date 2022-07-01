@@ -17,7 +17,9 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 ### TeamsSix's Hot Repo 📫
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=cf&theme=tokyonight)](https://github.com/teamssix/cf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=awesome-cloud-security&theme=tokyonight)](https://github.com/teamssix/awesome-cloud-security)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=TWiki&theme=tokyonight)](https://github.com/teamssix/TWiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=container-escape-check&theme=tokyonight)](https://github.com/teamssix/container-escape-check)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=CreateHiddenAccount&theme=tokyonight)](https://github.com/wgpsec/CreateHiddenAccount)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=tig&theme=tokyonight)](https://github.com/wgpsec/tig)

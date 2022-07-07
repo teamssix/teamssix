@@ -11,11 +11,6 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 * My Twitter: [@TeamsSix](https://twitter.com/TeamsSix)
 * My WeChat Official Accounts: [TeamsSix](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png)
 
-
-
-### TeamsSix's Stars ✨
-
-
 ### TeamsSix's Hot Repo 📫
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=cf&theme=tokyonight)](https://github.com/teamssix/cf)

@@ -1,5 +1,7 @@
 ### About Me
 
+<a href="https://github.com/teamssix"><img align="right" src="https://github-readme-stats.vercel.app/api?username=teamssix&show_icons=true&locale=cn&include_all_commits=true&count_private=true&theme=tokyonight)"/></a>
+
 Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 * Red Team
@@ -13,7 +15,6 @@ Hi, I'm TeamsSix @Wgpsec Team 👋👋👋
 
 ### TeamsSix's Stars ✨
 
-[![My Stars](https://github-readme-stats.vercel.app/api?username=teamssix&show_icons=true&locale=cn&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/teamssix)
 
 ### TeamsSix's Hot Repo 📫
 

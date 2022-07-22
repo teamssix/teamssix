@@ -8,7 +8,7 @@
 
 ### TeamsSix's github stats 😁
 
-![teamssix's github stats](https://github-readme-stats.vercel.app/api?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)
+![teamssix's github stats](https://github-readme-stats.vercel.app/api?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20) ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)
 
 ### TeamsSix's Hot Repo 📫
 

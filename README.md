@@ -6,9 +6,9 @@
 
 [![](https://img.shields.io/badge/Research%20Direction-Cloud%20Security-blue)](https://wiki.teamssix.com) [![](https://img.shields.io/badge/Blog-teamssix.com-blue)](https://teamssix.com) [![](https://img.shields.io/badge/T%20Wiki-wiki.teamssix.com-blue)](https://wiki.teamssix.com) [![](https://img.shields.io/badge/微信公众号-TeamsSix-blue)](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png) [![](https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social)](https://twitter.com/teamssix)
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
-
 [![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/teamssix)
+
+[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
 
 [![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
 

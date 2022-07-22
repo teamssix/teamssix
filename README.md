@@ -6,6 +6,12 @@
 
 [![](https://img.shields.io/badge/Research%20Direction-Cloud%20Security-blue)](https://wiki.teamssix.com) [![](https://img.shields.io/badge/Blog-teamssix.com-blue)](https://teamssix.com) [![](https://img.shields.io/badge/T%20Wiki-wiki.teamssix.com-blue)](https://wiki.teamssix.com) [![](https://img.shields.io/badge/微信公众号-TeamsSix-blue)](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png) [![](https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social)](https://twitter.com/teamssix)
 
+[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
+
+[![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/teamssix)
+
+[![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
+
 ### TeamsSix's github stats 😁
 
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)
@@ -23,10 +29,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=tig&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/wgpsec/tig)
 
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
 
-[![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/teamssix)
-
-[![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
 
 <img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png" div align=center/></div>

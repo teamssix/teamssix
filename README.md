@@ -1,26 +1,14 @@
-
 <div align="center">
 
 👋 Hi there ~
 
-<a href="https://teamssix.com"><img src="https://readme-typing-svg.herokuapp.com/?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=I+can+do+all+this+through+him+who+gives+me+strength."><a>
+<a href="https://teamssix.com"><img src="https://readme-typing-svg.herokuapp.com/?font=Handlee&center=true&vCenter=true&width=700&height=60&lines=I+can+do+all+this+through+him+who+gives+me+strength."><a>
 
 ### About Me 😁
 
-Red Team
-
-Cloud Security :cloud:
-
-My Blog : [teamssix.com](https://teamssix.com/)
-
-My Wiki :book: : [T Wiki](https://wiki.teamssix.com/)
-
-My Twitter: [@TeamsSix](https://twitter.com/TeamsSix)
-
-My WeChat Official Accounts: [TeamsSix](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png)
-
-
 ![teamssix's github stats](https://github-readme-stats.vercel.app/api?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)
+
+[![](https://img.shields.io/badge/Research%20Direction-Cloud%20Security-blue)](https://wiki.teamssix.com) [![](https://img.shields.io/badge/Blog-teamssix.com-blue)](https://teamssix.com) [![](https://img.shields.io/badge/T%20Wiki-wiki.teamssix.com-blue)](https://wiki.teamssix.com) [![](https://img.shields.io/badge/微信公众号-TeamsSix-blue)](https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/TeamsSix_Subscription_Logo2.png) [![](https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social)](https://twitter.com/teamssix)
 
 ### TeamsSix's Hot Repo 📫
 

@@ -8,7 +8,9 @@
 
 ### TeamsSix's github stats 😁
 
-![teamssix's github stats](https://github-readme-stats.vercel.app/api?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20) ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)
+![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)
+
+![teamssix's github stats](https://github-readme-stats.vercel.app/api?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)
 
 ### TeamsSix's Hot Repo 📫
 
@@ -22,6 +24,8 @@
 
 
 ![snake](./assets/github-contribution-grid-snake.svg)
+
+![github-active](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
 

@@ -23,9 +23,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=tig&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/wgpsec/tig)
 
 
-![snake](./assets/github-contribution-grid-snake.svg)
+[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
 
-![github-active](./profile-3d-contrib/profile-night-view.svg)
+[![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/teamssix)
 
 [![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
 

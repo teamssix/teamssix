@@ -36,8 +36,5 @@ My WeChat Official Accounts: [TeamsSix](https://cdn.jsdelivr.net/gh/teamssix/Blo
 ![snake](./assets/github-contribution-grid-snake.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
-</div>
 
-### Personal WeChat Public Account: TeamsSix
-
-<div align=center><img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png" div align=center/></div>
+<img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png" div align=center/></div>

@@ -8,9 +8,9 @@
 
 [![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/teamssix)
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
-
 [![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
+  
+[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
 
 ### TeamsSix's github stats 😁
 

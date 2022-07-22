@@ -25,7 +25,7 @@
 
 ![snake](./assets/github-contribution-grid-snake.svg)
 
-![github-active](./profile-3d-contrib/profile-night-rainbow.svg)
+![github-active](./profile-3d-contrib/profile-night-view.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
 

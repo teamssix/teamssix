@@ -12,23 +12,4 @@
   
 [![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/teamssix)
 
-### TeamsSix's github stats 😁
-
-[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/teamssix)
-
-[![teamssix's github stats](https://github-readme-stats.vercel.app/api?username=teamssix&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/teamssix)
-
-### TeamsSix's Hot Repo 📫
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=cf&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/teamssix/cf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=awesome-cloud-security&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/teamssix/awesome-cloud-security)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=TWiki&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/teamssix/TWiki)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teamssix&repo=container-escape-check&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/teamssix/container-escape-check)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=CreateHiddenAccount&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/wgpsec/CreateHiddenAccount)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wgpsec&repo=tig&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn&line_height=20)](https://github.com/wgpsec/tig)
-
-
-
-
 <a href="https://github.com/teamssix"><img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png"></a></div>

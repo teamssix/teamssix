@@ -12,8 +12,4 @@ CF 云环境利用框架于 2023 年 8 月 9 日转为私有仓库并在狼组�
 
 <div align="center">
 
-[![github-active](./profile-3d-contrib/profile-night-view.svg)](https://github.com/teamssix)
-
-[![](https://activity-graph.herokuapp.com/graph?username=teamssix&bg_color=black&color=23affc&line=23affc)](https://github.com/teamssix)
-
 <a href="https://github.com/teamssix"><img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png"></a></div>
